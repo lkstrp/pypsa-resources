@@ -1,42 +1,37 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{1}
 
-\bibitem{gnu}
+\bibitem{PyPSA}
+T.~Brown, J.~H\"orsch, and D.~Schlachtberger.
+\newblock {PyPSA: Python for Power System Analysis}.
+\newblock {\em Journal of Open Research Software}, 6(4), 2018.
 
+\bibitem{pypsa-brazil}
+Ying Deng, Karl-Ki{\^e}n Cao, Wenxuan Hu, Ronald Stegen, Kai von Krbek, Rafael Soria, Pedro Rua~Rodriguez Rochedo, and Patrick Jochem.
+\newblock Harmonized and open energy dataset for modeling a highly renewable brazilian power system.
+\newblock {\em Scientific Data}, 10(1):103, 2023.
 
-\bibitem{a}
+\bibitem{PyPSAEur}
+Jonas Hoersch, Fabian Hofmann, David Schlachtberger, and Tom Brown.
+\newblock Pypsa-eur: An open optimisation model of the european transmission system.
+\newblock {\em Energy Strategy Reviews}, 22:207--215, 2018.
 
+\bibitem{Snakemake}
+F~Mölder, KP~Jablonski, B~Letcher, MB~Hall, CH~Tomkins-Tinch, V~Sochat, J~Forster, S~Lee, SO~Twardziok, A~Kanitz, A~Wilm, M~Holtgrewe, S~Rahmann, S~Nahnsen, and J~Köster.
+\newblock Sustainable data analysis with snakemake [version 2; peer review: 2 approved].
+\newblock {\em F1000Research}, 10(33), 2021.
 
-\bibitem{zeta}
+\bibitem{PyPSAEurSec}
+Fabian Neumann, Elisabeth Zeyen, Marta Victoria, and Tom Brown.
+\newblock The potential role of a hydrogen network in europe, 2023.
 
+\bibitem{pypsa-earth}
+Maximilian Parzen, Hazem Abdel-Khalek, Ekaterina Fedotova, Matin Mahmood, Martha~Maria Frysztacki, Johannes Hampp, Lukas Franken, Leon Schumm, Fabian Neumann, Davide Poli, Aristides Kiprakis, and Davide Fioriti.
+\newblock Pypsa-earth. a new global open energy system optimization model demonstrated in africa.
+\newblock {\em Applied Energy}, 341:121096, 2023.
 
-\bibitem{egne}
-
-
-\bibitem{ene}
-
-
-\bibitem{nuname}
-
-
-\bibitem{exclam}
-
-
-\bibitem{interr}
-
-
-\bibitem{ASCII}
-
-
-\bibitem{bit}
-
-
-\bibitem{bibtex8}
-
-
-\bibitem{pi}
-
-
-\bibitem{alfa}
-
+\bibitem{pypsa-china}
+Xiaowei Zhou, Kai Strunz, Tom Brown, Hongbin Sun, and Fabian Neumann.
+\newblock Multi-energy system horizon planning: Early decarbonisation in china avoids stranded assets.
+\newblock {\em Energy Internet}, 1(1):81--98, 2024.
 
 \end{thebibliography}
